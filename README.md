@@ -1,14 +1,22 @@
 <Hello World !!>
 
-Hey.. I am Aleena Alby , girl who loves to sit in front of computer. 
+Hey.. 👋 I am Aleena Alby , girl who loves to sit in front of computer. 
 
-https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+<h4 align="left">You can reach me </h4>
+ <a href="https://www.linkedin.com/in/aleena-alby/">
+    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Angel Santiago Jaime Zavala's LinkedIn Profile" height="30" width="30">
+  </a>
+  
+  <br>
+  
+<!-- 
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AleenaAlby&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /> -->
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AleenaAlby&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+<br><br>
 
 
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=AleenaAlby&show_icons=true&locale=en&layout=compact" alt="AleenaAlby" /></p>
 
-<!---
-AleenaAlby/AleenaAlby is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p align='center'>
+  📫 Email <a href='mailto:aleenaalby20@gmail.com'>aleenaalby20@gmail.com</a>
+</p>
