@@ -2,10 +2,10 @@
 
 Hey.. 👋 I am Aleena Alby , girl who loves to sit in front of computer. 
 
-<!-- <h4 align="left">You can reach me </h4> -->
-<!--  <a href="https://www.linkedin.com/in/aleena-alby/">
+<h4 align="left">You can reach me </h4>
+ <a href="https://www.linkedin.com/in/aleena-alby/">
     <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Angel Santiago Jaime Zavala's LinkedIn Profile" height="30" width="30">
-  </a> -->
+  </a>
   
   <br>
   
@@ -17,6 +17,6 @@ Hey.. 👋 I am Aleena Alby , girl who loves to sit in front of computer.
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=AleenaAlby&show_icons=true&locale=en&layout=compact" alt="AleenaAlby" /></p>
 
-<!-- <p align='center'>
+<p align='center'>
   📫 Email <a href='mailto:aleenaalby20@gmail.com'>aleenaalby20@gmail.com</a>
-</p> -->
+</p>
