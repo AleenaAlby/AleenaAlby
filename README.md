@@ -2,7 +2,7 @@
 
 Hey.. 👋 I am Aleena Alby , girl who loves to sit in front of computer. 
 
-<h4 align="left">You can reach me </h4>
+<!-- <h4 align="left">You can reach me </h4> -->
 <!--  <a href="https://www.linkedin.com/in/aleena-alby/">
     <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Angel Santiago Jaime Zavala's LinkedIn Profile" height="30" width="30">
   </a> -->
