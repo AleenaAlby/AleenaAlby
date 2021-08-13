@@ -17,6 +17,6 @@ Hey.. 👋 I am Aleena Alby , girl who loves to sit in front of computer.
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=AleenaAlby&show_icons=true&locale=en&layout=compact" alt="AleenaAlby" /></p>
 
-<p align='center'>
+<!-- <p align='center'>
   📫 Email <a href='mailto:aleenaalby20@gmail.com'>aleenaalby20@gmail.com</a>
-</p>
+</p> -->
