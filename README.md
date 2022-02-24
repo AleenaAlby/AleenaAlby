@@ -1,6 +1,6 @@
 <Hello World !!>
 
-Hey.. 👋 I am Aleena Alby , girl who loves to sit in front of computer. 
+
 
 <h4 align="left">You can reach me </h4>
  <a href="https://www.linkedin.com/in/aleena-alby/">
