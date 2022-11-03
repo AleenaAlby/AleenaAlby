@@ -16,10 +16,11 @@
 
 <br><br>
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=AleenaAlby)](https://github.com/AleenaAlby/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AleenaAlby)](https://github.com/AleenaAlby/github-readme-stats)
 
+<!-- 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=AleenaAlby&show_icons=true&locale=en&layout=compact" alt="AleenaAlby" /></p>
-
+ -->
 <!-- <p align='center'>
   📫 Email <a href='mailto:aleenaalby20@gmail.com'>aleenaalby20@gmail.com</a>
 </p> -->
