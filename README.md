@@ -1,4 +1,4 @@
- Aspiring Data Scientist
+Data enthusiast with a passion for uncovering insights and solving problems. Always looking to learn new technologies and push the boundaries of what's possible. 
 
 
 
