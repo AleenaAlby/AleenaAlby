@@ -1,4 +1,4 @@
-<p style = "font-family:georgia,garamond,serif;font-size:16px;font-style:italic;">
+<p style = "font-family:serif; font-size:16px; font-style:italic;">
  Hi there! I'm a tech enthusiast with a passion for using data to solve problems. Skilled in Python Django, ReactJS, and machine learning, I love exploring new technologies and pushing the boundaries of what's possible. If you're looking for a creative, data-driven developer, let's connect!
 </p>
 
