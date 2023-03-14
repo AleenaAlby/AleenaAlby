@@ -1,5 +1,4 @@
-Data enthusiast with a passion for uncovering insights and solving problems. Always looking to learn new technologies and push the boundaries of what's possible. 
-
+Hi there! I'm a tech enthusiast with a passion for using data to solve problems. Skilled in Python Django, ReactJS, and machine learning, I love exploring new technologies and pushing the boundaries of what's possible. If you're looking for a creative, data-driven developer, let's connect!
 
 
 <h4 align="left">You can reach me </h4>
