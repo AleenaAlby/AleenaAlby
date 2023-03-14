@@ -1,5 +1,5 @@
-<p style = "font-family:serif; font-size:16px; font-style:italic;">
- Hi there! I'm a tech enthusiast with a passion for using data to solve problems. Skilled in Python Django, ReactJS, and machine learning, I love exploring new technologies and pushing the boundaries of what's possible. If you're looking for a creative, data-driven developer, let's connect!
+<p>
+ Hi there! I'm a tech enthusiast with a passion for using data to solve problems. Skilled in  <strong>Python Django, ReactJS, and machine learning </strong>, I love exploring new technologies and pushing the boundaries of what's possible. If you're looking for a creative, data-driven developer, let's connect!
 </p>
 
 <h4 align="left">You can reach me </h4>
