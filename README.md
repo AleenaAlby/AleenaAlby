@@ -4,11 +4,15 @@
 
 <h4 align="left">You can reach me </h4>
  <a href="https://www.linkedin.com/in/aleena-alby/">
-    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Angel Santiago Jaime Zavala's LinkedIn Profile" height="30" width="30">
+    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Aleena's LinkedIn Profile" height="30" width="30">
   </a> &ensp;
   <a href="https://public.tableau.com/app/profile/aleena.alby">
-    <img src="https://github.com/get-icon/geticon/blob/master/icons/tableau-icon.svg" alt="Angel Santiago Jaime Zavala's LinkedIn Profile" height="30" width="30">
+    <img src="https://github.com/get-icon/geticon/blob/master/icons/tableau-icon.svg" alt="Aleena's LinkedIn Profile" height="30" width="30">
   </a>
+   <a href="https://www.instagram.com/lion_heart_aa/">
+    <img src="https://github.com/get-icon/geticon/blob/master/icons/instagram-icon.svg" alt="Aleena's LinkedIn Profile" height="30" width="30">
+  </a>
+  
   <br>
   
 <!-- 
