@@ -8,7 +8,7 @@
   </a> &ensp;
   <a href="https://public.tableau.com/app/profile/aleena.alby">
     <img src="https://github.com/get-icon/geticon/blob/master/icons/tableau-icon.svg" alt="Aleena's LinkedIn Profile" height="30" width="30">
-  </a>
+  </a>&ensp;
    <a href="https://www.instagram.com/lion_heart_aa/">
     <img src="https://github.com/get-icon/geticon/blob/master/icons/instagram-icon.svg" alt="Aleena's LinkedIn Profile" height="30" width="30">
   </a>
